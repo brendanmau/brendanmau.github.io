@@ -18,33 +18,10 @@ export default function Index() {
                 </a>
                 <p>
                     <a href="about.html">
-                        Brendan Mau is currently studying sports journalism at
-                        Arizona State’s Walter Cronkite School of Journalism.
-                        Brendan plans to graduate in December of 2022 with a
-                        bachelor’s degree in this field and a minor in business.
-                        Right now in his final semester, Brendan is a digital
-                        reporter for Cronkite News in its Phoenix Sports Bureau.
-                        He covers a variety of topics in sports for the Arizona
-                        PBS affiliated station, and the majority of his work
-                        comes from the beat he was assigned - UArizona, GCU and
-                        NAU athletics. In the spring semester, Brendan was an
-                        intern and wrote sports articles for Times Media Group,
-                        a publication company which has numerous weekly papers
-                        across his home state of Arizona and California. Brendan
-                        has a passion for writing, but also has done some
-                        broadcasting work for some of his classes. In addition
-                        to school and Cronkite News, Brendan also referees youth
-                        flag football in his local community. In the past,
-                        Brendan worked for his local magazine to write sports
-                        articles for his high school his freshman and sophomore
-                        years. He realized his love for writing and sports could
-                        become his career after attending a two week sports
-                        broadcast boot camp at the Cronkite school the summer
-                        after his junior year of high school. Shortly after, he
-                        applied to the school and since then, he has learned so
-                        much from his classes and the faculty. Once he
-                        graduates, Brendan hopes to be a writer covering sports
-                        and see his lifelong dream become a working reality.
+                    I have covered everything from club volleyball to high school tennis to college football to Supercross 
+                    through video, print journalism and social media. <br/>
+                    Some of the skills I will possess are experience with Microsoft Office, Adobe Premiere Pro, Photoshop 
+                    and Audition, as well as the ability to use social media effectively and knowledge of how to use NRX cameras. 
                     </a>
                 </p>
                 <div className="homegrid">

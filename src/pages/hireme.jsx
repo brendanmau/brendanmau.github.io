@@ -16,10 +16,10 @@ export default function HireMe() {
                         I am a hardworking, dedicated sports journalist willing
                         to help out any potential employer as they need, whether
                         it be a job or freelance work. Working as a sports
-                        writer at Times Media Group has taught me a lot on how
+                        writer for various media outlets has taught me a lot on how
                         to work for a publication and the importance of meeting
                         deadlines. During my time at the Walter Cronkite School
-                        of Journalism, I have learned from so many successful
+                        of Journalism, I  learned from so many successful
                         journalists and developed my skills in every aspect,
                         especially for writing and video broadcast work. Because
                         of my business minor, I also took a web design course

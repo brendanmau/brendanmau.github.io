@@ -28,33 +28,13 @@ export default function About() {
                         </div>
                     </div>
                     <p>
-                        Brendan Mau is currently studying sports journalism at
-                        Arizona State’s Walter Cronkite School of Journalism.
-                        Brendan plans to graduate in December of 2022 with a
-                        bachelor’s degree in this field and a minor in business.
-                        Right now in his final semester, Brendan is a digital
-                        reporter for Cronkite News in its Phoenix Sports Bureau.
-                        He covers a variety of topics in sports for the Arizona
-                        PBS affiliated station, and the majority of his work
-                        comes from the beat he was assigned - UArizona, GCU and
-                        NAU athletics. In the spring semester, Brendan was an
-                        intern and wrote sports articles for Times Media Group,
-                        a publication company which has numerous weekly papers
-                        across his home state of Arizona and California. Brendan
-                        has a passion for writing, but also has done some
-                        broadcasting work for some of his classes. In addition
-                        to school and Cronkite News, Brendan also referees youth
-                        flag football in his local community. In the past,
-                        Brendan worked for his local magazine to write sports
-                        articles for his high school his freshman and sophomore
-                        years. He realized his love for writing and sports could
-                        become his career after attending a two week sports
-                        broadcast boot camp at the Cronkite school the summer
-                        after his junior year of high school. Shortly after, he
-                        applied to the school and since then, he has learned so
-                        much from his classes and the faculty. Once he
-                        graduates, Brendan hopes to be a writer covering sports
-                        and see his lifelong dream become a working reality.{' '}
+                    I got into this field after watching sports constantly growing up and loving to write. I discovered early on in high school that 
+                    I could combine these two passions to be a sports journalist, and I realized that I wanted to do this as a career after attending 
+                    a two week sports broadcast boot camp at the Cronkite school the summer after my junior year of high school. I shared my love of sports 
+                    with my father, who passed away from cancer my freshman year of college, so now I try to do what would make him proud with everything I 
+                    do in this field. Through all of the experience I have gained, I continue to love doing this and growing more and more in my abilities. <br/>
+                    Outside of sports journalism, I like to play sports of my own, and my two favorites to play are pickleball and basketball. I am also a 
+                    youth flag football referee, and I love and never take for granted spending time with my family, friends and dogs. 
                     </p>
 
                     <div className="resumehome">
