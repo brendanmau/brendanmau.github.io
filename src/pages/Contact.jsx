@@ -10,8 +10,6 @@ export default function Contact() {
                 />
             </Helmet>
 
-            <main id="center">
-                <main id="padding">
                     <h2>Contact me!</h2>
                     <h3>
                         Have any questions or want a story to be published? Feel
@@ -47,8 +45,6 @@ export default function Contact() {
                             value="Send to brendanmau@gmail.com"
                         />
                     </form>
-                </main>
-            </main>
         </>
     )
 }
