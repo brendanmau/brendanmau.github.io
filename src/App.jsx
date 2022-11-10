@@ -14,7 +14,7 @@ function App() {
     return (
         <>
             <Header />
-            <main>
+            <main className="px-4 md:px-10 lg:px-[12em]">
                 <Switch>
                     <Route path="/" component={Index} />
                     <Route path="/about" component={About} />
