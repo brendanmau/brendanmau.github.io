@@ -8,7 +8,7 @@ export default function About() {
     { src: "Desert Financial.jpg", alt: "Brendan at Desert Financial" },
     { src: "Bell Bank.jpg", alt: "Brendan at Bell Bank" },
     { src: "Mau Arizona Football 1.jpeg", alt: "Brendan standing on UArizona's football field" },
-    { src: "Mau Kyree Walker Medium.jpeg", alt: "Brendan with Kyree Walker" },
+    { src: "Mau Kyree Walker.jpeg", alt: "Brendan with Kyree Walker" },
     { src: "Mau Ish Wainwright.jpeg", alt: "Brendan with Ish Wainright" },
     { src: "Mau Arizona Basketball.jpeg", alt: "Brendan standing at ASU basketball court" },
     { src: "Mau Arizona Football 2.jpeg", alt: "Brendan standing on UArizona's football field (again)" },
