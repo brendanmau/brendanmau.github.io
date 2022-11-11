@@ -41,7 +41,7 @@ export default function Resume() {
               </ul>
             </td>
             <td>
-              <i>September 2015 - August 2019</i>
+              <i>Sept. 2015 - Aug. 2019</i>
             </td>
           </tr>
           <tr>
@@ -58,7 +58,7 @@ export default function Resume() {
               </ul>
             </td>
             <td>
-              <i>July 2016 - February 2017</i>
+              <i>July 2016 - Feb. 2017</i>
             </td>
           </tr>
           <tr>
@@ -76,11 +76,7 @@ export default function Resume() {
             </td>
             <td>
               <i>
-                June 2017 - August 2017
-                <br />
-                2018 - July 2018
-                <br />
-                2019 - August 2019
+                Summers of 2017-2019
               </i>
             </td>
           </tr>
@@ -95,7 +91,7 @@ export default function Resume() {
               </ul>
             </td>
             <td>
-              <i>November 2017 - November 2018</i>
+              <i>Nov. 2017 - Nov. 2018</i>
             </td>
           </tr>
           <tr>
@@ -106,17 +102,17 @@ export default function Resume() {
             <td>
               <ul>
                 <li>
-                  Write various sports articles featured in
+                  Wrote various sports articles featured in
                   local papers in Arizona and online
                 </li>
                 <li>
-                  Cover everything from youth sports to
+                  Covered everything from youth sports to
                   professional leagues
                 </li>
               </ul>
             </td>
             <td>
-              <i>January 2022 - April 2022</i>
+              <i>Jan. 2022 - Apr. 2022</i>
             </td>
           </tr>
           <tr>
@@ -139,7 +135,7 @@ export default function Resume() {
           <tr>
             <td>
               <b>
-                Cronkite News: Phoenix Sports Bureau; Phoenix,
+                Cronkite News/ Arizona PBS: Phoenix Sports Bureau; Phoenix,
                 AZ
               </b>{' '}
               -<br /> Digital Reporter
@@ -147,17 +143,17 @@ export default function Resume() {
             <td>
               <ul>
                 <li>
-                  Cover a variety of sports news for Arizona
-                  PBS affiliated station
+                  Beat writer covering ASU basketball, UArizona, GCU
+                  and NAU athletics, as well as general topics
                 </li>
                 <li>
-                  Assigned to be a beat reporter for UArizona,
-                  GCU and NAU sports
+                  Work published on their website and picked up by multiple
+                  publications
                 </li>
               </ul>
             </td>
             <td>
-              <i>August 2022 - Present</i>
+              <i>Aug. 2022 - Present</i>
             </td>
           </tr>
         </tbody>

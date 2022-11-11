@@ -7,11 +7,14 @@ export default function About() {
     { src: "Broadcast.JPG", alt: "Brendan broadcasting live" },
     { src: "Desert Financial.jpg", alt: "Brendan at Desert Financial" },
     { src: "Bell Bank.jpg", alt: "Brendan at Bell Bank" },
-    { src: "Mau Arizona Football 1.jpeg", alt: "Brendan standing at a football field" },
+    { src: "Mau Arizona Football 1.jpeg", alt: "Brendan standing on UArizona's football field" },
     { src: "Mau Kyree Walker Medium.jpeg", alt: "Brendan with Kyree Walker" },
-    { src: "Mau Ish Wainwright.jpeg", alt: "Brendan with Ish Wainwright" },
+    { src: "Mau Ish Wainwright.jpeg", alt: "Brendan with Ish Wainright" },
     { src: "Mau Arizona Basketball.jpeg", alt: "Brendan standing at ASU basketball court" },
-    { src: "Mau Arizona Football 2.jpeg", alt: "Brendan standing on football field (again)" }
+    { src: "Mau Arizona Football 2.jpeg", alt: "Brendan standing on UArizona's football field (again)" },
+    { src: "Mau ASU Basketball.jpeg", alt: "Brendan standing on ASU basketball court" },
+    { src: "Mau DJ Foster Scooby Wright.jpeg", alt: "Brendan after an interview with Scooby Wright and D.J. Foster" },
+    { src: "Mau Scooby Wright.jpeg", alt: "Brendan interviewiing Scooby Wright" }
   ]
   return (
     <>
