@@ -30,68 +30,43 @@ export default function Resume() {
           </tr>
           <tr>
             <td>
-              <b>Cross of Christ; Anthem, AZ</b> -<br /> Tech Crew
+              <b>
+                Cronkite News/ Arizona PBS: Phoenix Sports Bureau; Phoenix,
+                AZ
+              </b>{' '}
+              -<br /> Digital Reporter
             </td>
             <td>
               <ul>
                 <li>
-                  Operated A/V system with lyrics, lights and
-                  sound during church service
+                  Beat writer covering ASU basketball, UArizona, GCU
+                  and NAU athletics, as well as general topics
+                </li>
+                <li>
+                  Work published on their website and picked up by multiple
+                  publications
                 </li>
               </ul>
             </td>
             <td>
-              <i>Sept. 2015 - Aug. 2019</i>
+              <i>Aug. 2022 - Present</i>
             </td>
           </tr>
           <tr>
             <td>
-              <b>In&Out Magazine; Anthem, AZ</b> -<br /> Sports
-              Writer
+              <b>Core 5 Flag Football; Anthem, AZ</b> -<br /> Head
+              Referee
             </td>
             <td>
               <ul>
                 <li>
-                  Wrote articles about high school sports
-                  teams and games for local weekly magazine
+                  Referee flag football games of children ages
+                  five to 15 every Friday night
                 </li>
               </ul>
             </td>
             <td>
-              <i>July 2016 - Feb. 2017</i>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <b>Outdoor Systems Management; Phoenix, AZ</b> -
-              <br /> Assistant Estimator Intern
-            </td>
-            <td>
-              <ul>
-                <li>Completed takeoffs</li>
-                <li>
-                  Created bid budgets for landscaping projects
-                </li>
-              </ul>
-            </td>
-            <td>
-              <i>
-                Summers of 2017-2019
-              </i>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <b>Content Supply; Remote</b> -<br /> Intern
-            </td>
-            <td>
-              <ul>
-                <li>Edited Podcasts</li>
-                <li>Wrote shownotes</li>
-              </ul>
-            </td>
-            <td>
-              <i>Nov. 2017 - Nov. 2018</i>
+              <i>March 2022 - Present</i>
             </td>
           </tr>
           <tr>
@@ -117,43 +92,68 @@ export default function Resume() {
           </tr>
           <tr>
             <td>
-              <b>Core 5 Flag Football; Anthem, AZ</b> -<br /> Head
-              Referee
+              <b>Content Supply; Remote</b> -<br /> Intern
             </td>
             <td>
               <ul>
-                <li>
-                  Referee flag football games of children ages
-                  five to 15 every Friday night
-                </li>
+                <li>Edited Podcasts</li>
+                <li>Wrote shownotes</li>
               </ul>
             </td>
             <td>
-              <i>March 2022 - Present</i>
+              <i>Nov. 2017 - Nov. 2018</i>
             </td>
           </tr>
           <tr>
             <td>
-              <b>
-                Cronkite News/ Arizona PBS: Phoenix Sports Bureau; Phoenix,
-                AZ
-              </b>{' '}
-              -<br /> Digital Reporter
+              <b>Outdoor Systems Management; Phoenix, AZ</b> -
+              <br /> Assistant Estimator Intern
             </td>
             <td>
               <ul>
+                <li>Completed takeoffs</li>
                 <li>
-                  Beat writer covering ASU basketball, UArizona, GCU
-                  and NAU athletics, as well as general topics
-                </li>
-                <li>
-                  Work published on their website and picked up by multiple
-                  publications
+                  Created bid budgets for landscaping projects
                 </li>
               </ul>
             </td>
             <td>
-              <i>Aug. 2022 - Present</i>
+              <i>
+                Summers of 2017-2019
+              </i>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b>In&Out Magazine; Anthem, AZ</b> -<br /> Sports
+              Writer
+            </td>
+            <td>
+              <ul>
+                <li>
+                  Wrote articles about high school sports
+                  teams and games for local weekly magazine
+                </li>
+              </ul>
+            </td>
+            <td>
+              <i>July 2016 - Feb. 2017</i>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b>Cross of Christ; Anthem, AZ</b> -<br /> Tech Crew
+            </td>
+            <td>
+              <ul>
+                <li>
+                  Operated A/V system with lyrics, lights and
+                  sound during church service
+                </li>
+              </ul>
+            </td>
+            <td>
+              <i>Sept. 2015 - Aug. 2019</i>
             </td>
           </tr>
         </tbody>
