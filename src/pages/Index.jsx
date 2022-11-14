@@ -72,7 +72,8 @@ export default function Index() {
           <p>
             I have covered everything from club volleyball to high
             school tennis to college football to Supercross through
-            video, print journalism and social media. <br />
+            video, print journalism and social media. <br  />
+            <br />
             Some of the skills I possess are experience with Microsoft
             Office, Adobe Premiere Pro, Photoshop and Audition, as well
             as the ability to use social media effectively and knowledge

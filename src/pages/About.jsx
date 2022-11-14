@@ -39,6 +39,7 @@ export default function About() {
         would make him proud with everything I do in this field. Through
         all of the experience I have gained, I continue to love doing
         this and growing more and more in my abilities. <br />
+        <br />
         Outside of sports journalism, I like to play sports of my own,
         and my two favorites to play are pickleball and basketball. I am
         also a youth flag football referee, and I love and never take
