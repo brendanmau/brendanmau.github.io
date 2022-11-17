@@ -70,7 +70,9 @@ export default function Index() {
         />
         <div className="flex flex-col">
           <p>
-            I have covered everything from club volleyball to high
+            I have recently done extensive reporting on Arizona State basketball and University of Arizona athletics.
+            Additionally throughout my journalism career, I have covered everything from club volleyball to high
+            school tennis to Supercross through print, video and social media.I have covered everything from club volleyball to high
             school tennis to college football to Supercross through
             video, print journalism and social media. <br  />
             <br />
