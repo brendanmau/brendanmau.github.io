@@ -14,7 +14,12 @@ export default function About() {
     { src: "Mau Arizona Football 2.jpeg", alt: "Brendan standing on UArizona's football field (again)" },
     { src: "Mau ASU Basketball.jpeg", alt: "Brendan standing on ASU basketball court" },
     { src: "Mau DJ Foster Scooby Wright.jpeg", alt: "Brendan after an interview with Scooby Wright and D.J. Foster" },
-    { src: "Mau Scooby Wright.jpeg", alt: "Brendan interviewiing Scooby Wright" }
+    { src: "Mau Scooby Wright.jpeg", alt: "Brendan interviewing Scooby Wright" },
+    { src: "Mau Wally Award.jpeg", alt: "Brendan with a Wally award he won at Cronkite News for outstanding recent work" },
+    { src: "Mau Scooby Wright U of A.jpeg", alt: "Brendan with Scooby Wright, who was an honorary captain, at Arizona before filming a football game" },
+    { src: "Mau Standup U of A.jpeg", alt: "Brendan doing a standup for a broadcast package he did at Arizona stadium" },
+    { src: "Mau Territorial Cup 1.jpeg", alt: "Brendan with Cronkite News colleagues before the Territorial Cup" },
+    { src: "Mau Territorial Cup 2.jpeg", alt: "Brendan at Arizona Stadium after the Wildcats defeated Arizona State 38-35 in the Territorial Cup" },
   ]
   return (
     <>

@@ -6,6 +6,18 @@ import Article from "../components/Article";
 
 export default function Index() {
   const articles = [{
+    url: "https://cronkitenews.azpbs.org/2022/11/24/pac-12-social-justice-hbcus-asu-arizona-basketball/",
+    imgSrc: "/Pac-12 SWAC.jpeg",
+    imgAlt: "Austin Nunez, center, and his Arizona State teammates had the opportunity to learn more about HBCUs when the Sun Devils played Grambling State Tuesday night. (Photo by Mary Grace Grabill/Cronkite News)",
+    title: "Pac-12/SWAC Legacy Series brings social justice issues, HBCUs to the forefront",
+    date: "Nov. 24, 2022",
+    author: "Brendan Mau and Nicholas Hodell/Cronkite News",
+    description: "PHOENIX – The Arizona State women’s basketball team was \
+    set to play against Grambling State in 2020 before travel restrictions \
+    during the coronavirus pandemic forced the game to be canceled, \
+    according to GSU coach Freddie Murray."
+  },
+  {
     url: "https://cronkitenews.azpbs.org/2022/11/09/asu-dj-foster-arizona-scooby-wright-asu-football-star-sideline-reporters/",
     imgSrc: "/DJ Foster Scooby Wright.jpeg",
     imgAlt: "D.J. Foster, left, and Scooby Wright tag-team the pre-kickoff segment for GameTime on YurView at Basha High School on Oct. 20, ahead of a marquee football matchup between the Basha Bears and Chandler Hamilton Huskies. (Photo by Grace Edwards/Cronkite News)",
@@ -35,20 +47,6 @@ export default function Index() {
                   to turn downfield, but then he checked down a \
                   pass to de Laura, who made a nice catch along \
                   the sideline for an 11-yard gain."
-  },
-  {
-    url: "https://cronkitenews.azpbs.org/2022/10/03/arizona-basketball-red-blue-game-mckale-center/",
-    imgSrc: "Red Blue game.jpeg",
-    imgAlt: "Many Arizona basketball fans showed up early for the First Watch Red-Blue Game at McKale Center Friday night.  The Wildcats showcased new uniforms that are a throwback to 1987-88 and honored the program’s first Final Four team. (Photo by Ryan Meza/Cronkite News)",
-    title: "Promising future, storied past of Arizona hoops on display at Red-Blue Game",
-    author: "Brendan Mau/Cronkite News",
-    date: "Oct. 3, 2022",
-    description: "TUCSON – Arizona men’s basketball coach Tommy \
-                  Lloyd gave a sellout crowd at McKale Center its \
-                  first look at a remastered Wildcats roster along \
-                  with a glimpse into the program’s storied past \
-                  during at Arizona’s annual First Watch Red-Blue \
-                  Game on alumni weekend."
   }];
 
   return (

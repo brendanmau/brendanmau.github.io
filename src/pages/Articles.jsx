@@ -4,6 +4,18 @@ import Article from "../components/Article"
 export default function Articles() {
   const articles =
     [{
+      url: "https://cronkitenews.azpbs.org/2022/11/24/pac-12-social-justice-hbcus-asu-arizona-basketball/",
+      imgSrc: "/Pac-12 SWAC.jpeg",
+      imgAlt: "Austin Nunez, center, and his Arizona State teammates had the opportunity to learn more about HBCUs when the Sun Devils played Grambling State Tuesday night. (Photo by Mary Grace Grabill/Cronkite News)",
+      title: "Pac-12/SWAC Legacy Series brings social justice issues, HBCUs to the forefront",
+      date: "Nov. 24, 2022",
+      author: "Brendan Mau and Nicholas Hodell/Cronkite News",
+      description: "PHOENIX – The Arizona State women’s basketball team was \
+      set to play against Grambling State in 2020 before travel restrictions \
+      during the coronavirus pandemic forced the game to be canceled, \
+      according to GSU coach Freddie Murray."
+    },
+    {
       url: "https://cronkitenews.azpbs.org/2022/11/09/asu-dj-foster-arizona-scooby-wright-asu-football-star-sideline-reporters/",
       imgSrc: "/DJ Foster Scooby Wright.jpeg",
       imgAlt: "D.J. Foster, left, and Scooby Wright tag-team the pre-kickoff segment for GameTime on YurView at Basha High School on Oct. 20, ahead of a marquee football matchup between the Basha Bears and Chandler Hamilton Huskies. (Photo by Grace Edwards/Cronkite News)",
