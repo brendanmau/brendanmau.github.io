@@ -68,16 +68,14 @@ export default function Index() {
         />
         <div className="flex flex-col">
           <p>
-            I have recently done extensive reporting on Arizona State basketball and University of Arizona athletics.
-            Additionally throughout my journalism career, I have covered everything from club volleyball to high
-            school tennis to Supercross through print, video and social media.I have covered everything from club volleyball to high
-            school tennis to college football to Supercross through
-            video, print journalism and social media. <br  />
+            Brendan Mau has recently done extensive reporting on Arizona State basketball and University of Arizona athletics.
+            Additionally throughout his journalism career, Brendan has covered everything from club volleyball to high
+            school tennis to Supercross through print, video and social media. <br  />
             <br />
-            Some of the skills I possess are experience with Microsoft
+            Some of the skills Brendan possesses are experience with Microsoft
             Office, Adobe Premiere Pro, Photoshop and Audition, as well
             as the ability to use social media effectively and knowledge
-            of how to use Sony NRX cameras. I also have basic skills in
+            of how to use Sony NRX and Canon video cameras. Brendan also has basic skills in
             using CSS and HTML.
           </p>
           <Link href="/resume" className="bg-blue-500 text-white p-4 rounded-lg w-min drop-shadow">Resume</Link>
@@ -86,9 +84,9 @@ export default function Index() {
 
       <h2 className="mt-8">Description of Website</h2>
       <p>
-        I coded this website entirely by myself to display my
+        Brendan coded this website almost entirely by himself to display his
         portfolio of work to potential future employers and for
-        those who would like to keep up with my content.
+        those who would like to keep up with his content.
       </p>
 
       <h2 className="mt-8">Recent Tweets</h2>
