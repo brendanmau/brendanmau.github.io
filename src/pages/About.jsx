@@ -30,7 +30,7 @@ export default function About() {
         with his latest content. Here you can find his latest content."
         />
       </Helmet>
-      <h2>About Brendan Mau</h2>
+      <h2>About Me (Brendan Mau)</h2>
       <Slideshow slides={slides} />
       <p className="mb-8">
         I got into this field after watching sports constantly growing
