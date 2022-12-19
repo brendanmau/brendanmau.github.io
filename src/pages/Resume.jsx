@@ -12,10 +12,10 @@ export default function Resume() {
       </Helmet>
 
       <h2>Resume</h2>
-        <a className="text-xl hover:underline decoration-wavy text-blue-400" href="Resume.pdf">Download Resume</a>
+        <a className="text-xl hover:underline decoration-wavy text-blue-400" href="Brendan Mau Resume.pdf">Download Resume</a>
       <iframe
         className="mt-3"
-        src="Resume.pdf#toolbar=0"
+        src="Brendan Mau Resume.pdf#toolbar=0"
         width="100%"
         height="750px"
       ></iframe>
@@ -39,8 +39,8 @@ export default function Resume() {
             <td>
               <ul>
                 <li>
-                  Beat writer covering ASU basketball, UArizona, GCU
-                  and NAU athletics, as well as general topics
+                Sports beat writer covering ASU basketball, UArizona, GCU and 
+                NAU athletics, as well as general topics
                 </li>
                 <li>
                   Work published on their website and picked up by multiple
@@ -49,7 +49,7 @@ export default function Resume() {
               </ul>
             </td>
             <td>
-              <i>Aug. 2022 - Present</i>
+              <i>Aug. 2022 - Dec. 2022</i>
             </td>
           </tr>
           <tr>
@@ -60,13 +60,13 @@ export default function Resume() {
             <td>
               <ul>
                 <li>
-                  Referee flag football games of children ages
+                  Refereed flag football games of children ages
                   five to 15 every Friday night
                 </li>
               </ul>
             </td>
             <td>
-              <i>March 2022 - Present</i>
+              <i>March 2022 - Dec. 2022</i>
             </td>
           </tr>
           <tr>
@@ -119,7 +119,7 @@ export default function Resume() {
             </td>
             <td>
               <i>
-                Summers of 2017-2019
+                Summers of 2017 - 2019
               </i>
             </td>
           </tr>
