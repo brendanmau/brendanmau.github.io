@@ -20,6 +20,8 @@ export default function About() {
     { src: "Mau Standup U of A.jpeg", alt: "Brendan doing a standup for a broadcast package he did at Arizona stadium" },
     { src: "Mau Territorial Cup 1.jpeg", alt: "Brendan with Cronkite News colleagues before the Territorial Cup" },
     { src: "Mau Territorial Cup 2.jpeg", alt: "Brendan at Arizona Stadium after the Wildcats defeated Arizona State 38-35 in the Territorial Cup" },
+    { src: "Mau Fiesta Bowl.jpeg", alt: "Brendan at State Farrm Stadium ahead of the 2022 VRBO Fiesta Bowl between Michigan and TCU" },
+    { src: "Mau Fiesta Bowl RGIII.jpeg", alt: "Brendan at the 2022 VRBO Fiesta Bowl with ESPN broadcaster Robert Griffin III" }
   ]
   return (
     <>
