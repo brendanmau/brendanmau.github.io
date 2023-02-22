@@ -12,7 +12,7 @@ export default function Resume() {
       </Helmet>
 
       <h2>Resume</h2>
-        <a className="text-xl hover:underline decoration-wavy text-blue-400" href="Brendan Mau Resume.pdf">Download Resume</a>
+      <a className="text-xl hover:underline decoration-wavy text-teal-400" href="Brendan Mau Resume.pdf">Download Resume</a>
       <iframe
         className="mt-3"
         src="Brendan Mau Resume.pdf#toolbar=0"
@@ -39,8 +39,8 @@ export default function Resume() {
             <td>
               <ul>
                 <li>
-                Sports beat writer covering ASU basketball, UArizona, GCU and 
-                NAU athletics, as well as general topics
+                  Sports beat writer covering ASU basketball, UArizona, GCU and
+                  NAU athletics, as well as general topics
                 </li>
                 <li>
                   Work published on their website and picked up by multiple
@@ -88,6 +88,19 @@ export default function Resume() {
             </td>
             <td>
               <i>Jan. 2022 - Apr. 2022</i>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <b>Boulder Creek High School Morning Newscast; Anthem, AZ</b> -<br /> Production Assistant
+            </td>
+            <td>
+              <ul>
+                <li>Helped to run, produce and sometimes anchor the morning newscast at Boulder Creek High School</li>
+              </ul>
+            </td>
+            <td>
+              <i>Dec. 2017 - May. 2019</i>
             </td>
           </tr>
           <tr>

@@ -8,7 +8,7 @@ const ActiveLink = ({ linkClassName, children, ...props }) => {
 
   return (
     <Link {...props}>
-      <a className={`${linkClassName} border-2  ${isActive ? 'border-white':'border-blue-500'} `}>
+      <a className={`${linkClassName} border-2  ${isActive ? 'border-white' : 'border-teal-500'} `}>
         {children}
       </a>
     </Link>
@@ -26,8 +26,8 @@ export default function Header() {
 
   return (
     <div>
-      <header className="flex items-center justify-center bg-[url(/basketball-hoop.jpg)] h-[100px] bg-cover bg-center ">
-        <h1 className="m-0 text-4xl text-center drop-shadow-sm bg-blue-500/40 backdrop-blur-sm p-2 text-3xl rounded-lg">
+      <header className="flex items-center justify-center bg-[url(/basketball-hoop.jpg)] h-[100px] bg-cover bg-center	hue-rotate-[340deg]">
+        <h1 className="m-0 text-4xl text-center drop-shadow-sm bg-teal-500/40 backdrop-blur-sm p-2 text-3xl rounded-lg hue-rotate-[-340deg]">
           <Link href="/">BRENDAN MAU</Link>
         </h1>
       </header>
@@ -35,13 +35,13 @@ export default function Header() {
       <nav className="my-4 px-2">
         <ul className="flex gap-4 align-center justify-center flex-wrap	">
           <li>
-            <ActiveLink href="/" linkClassName="w-[50px] h-[50px] justify-center rounded-lg drop-shadow flex p-3 fill-white bg-blue-500 hover:bg-blue-600 transition-[background]">
+            <ActiveLink href="/" linkClassName="w-[50px] h-[50px] justify-center rounded-lg drop-shadow flex p-3 fill-white bg-teal-500 hover:bg-teal-600 transition-[background]">
               <Home />
             </ActiveLink>
           </li>
           <li className="flex items-center">
             <ActiveLink
-              linkClassName="p-3 rounded-lg drop-shadow bg-blue-500 hover:bg-blue-600 transition-[background]"
+              linkClassName="p-3 rounded-lg drop-shadow bg-teal-500 hover:bg-teal-600 transition-[background]"
               href="/articles"
             >
               Articles
@@ -49,7 +49,7 @@ export default function Header() {
           </li>
           <li className="flex items-center">
             <ActiveLink
-              linkClassName="p-3 rounded-lg drop-shadow bg-blue-500 hover:bg-blue-600 transition-[background]"
+              linkClassName="p-3 rounded-lg drop-shadow bg-teal-500 hover:bg-teal-600 transition-[background]"
               href="/about"
             >
               About
@@ -57,7 +57,7 @@ export default function Header() {
           </li>
           <li className="flex items-center">
             <ActiveLink
-              linkClassName="p-3 rounded-lg drop-shadow bg-blue-500 hover:bg-blue-600 transition-[background]"
+              linkClassName="p-3 rounded-lg drop-shadow bg-teal-500 hover:bg-teal-600 transition-[background]"
               href="/contact"
             >
               Contact
@@ -65,7 +65,7 @@ export default function Header() {
           </li>
           <li className="flex items-center">
             <ActiveLink
-              linkClassName="p-3 rounded-lg drop-shadow bg-blue-500 hover:bg-blue-600 transition-[background]"
+              linkClassName="p-3 rounded-lg drop-shadow bg-teal-500 hover:bg-teal-600 transition-[background]"
               href="/resume"
             >
               Resume
@@ -73,7 +73,7 @@ export default function Header() {
           </li>
           <li className="flex items-center">
             <ActiveLink
-              linkClassName="p-3 rounded-lg drop-shadow bg-blue-500 hover:bg-blue-600 transition-[background]"
+              linkClassName="p-3 rounded-lg drop-shadow bg-teal-500 hover:bg-teal-600 transition-[background]"
               href="/hireme"
             >
               Hire Me

@@ -5,7 +5,7 @@ export default function Article({ url, imgSrc, imgAlt, date, title, description,
         <img src={imgSrc} alt={imgAlt} className="rounded-lg w-auto h-auto max-w-full max-h-full" />
       </a>
       <div className="flex flex-col gap-1 col-span-5 sm:col-span-3">
-        <a href={url} className="text-blue-400 underline">
+        <a href={url} className="text-teal-400 underline">
           <h4 className="text-xl">{title}</h4>
         </a>
         <h5 className="text-lg">By {author}</h5>

@@ -1,5 +1,5 @@
 import { Helmet } from 'react-helmet'
-import {Link} from "wouter"
+import { Link } from "wouter"
 import Slideshow from "../components/Slideshow";
 export default function About() {
   const slides = [
@@ -47,7 +47,7 @@ export default function About() {
         all of the experience I have gained, I continue to love doing
         this and growing more and more in my abilities. <br />
       </p>
-      <Link href="/hireme" className="bg-blue-500 p-4 rounded-lg hover:bg-blue-600 transition-[background]">Hire&nbsp;Me!</Link>
+      <Link href="/hireme" className="bg-teal-500 p-4 rounded-lg hover:bg-teal-600 transition-[background]">Hire&nbsp;Me!</Link>
 
     </>
   )

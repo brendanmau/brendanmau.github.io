@@ -97,15 +97,15 @@ export default function Multimedia() {
             </article>
             <br />
             <article>
-                <a href="https://cronkitenews.azpbs.org/2022/10/03/arizona-basketball-red-blue-game-mckale-center/">
+                <a href="https://cronkitenews.azpbs.org/2022/10/03/arizona-basketball-red-teal-game-mckale-center/">
                     <img
-                        src="Red Blue game.jpeg"
-                        alt="Many Arizona basketball fans showed up early for the First Watch Red-Blue Game at McKale Center Friday night. 
+                        src="Red teal game.jpeg"
+                        alt="Many Arizona basketball fans showed up early for the First Watch Red-teal Game at McKale Center Friday night. 
         The Wildcats showcased new uniforms that are a throwback to 1987-88 and honored the program’s first Final Four team. (Photo by Ryan Meza/Cronkite News)"
                     />
                     <h4>
                         Promising future, storied past of Arizona hoops on
-                        display at Red-Blue Game
+                        display at Red-teal Game
                     </h4>
                     <h5>
                         <i>By Brendan Mau/Cronkite News</i> ⁠— Oct. 3, 2022
@@ -115,7 +115,7 @@ export default function Multimedia() {
                         a sellout crowd at McKale Center its first look at a
                         remastered Wildcats roster along with a glimpse into the
                         program’s storied past during at Arizona’s annual First
-                        Watch Red-Blue Game on alumni weekend.
+                        Watch Red-teal Game on alumni weekend.
                     </h6>
                 </a>
             </article>

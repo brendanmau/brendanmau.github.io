@@ -42,12 +42,12 @@ export default function HireMe() {
       <br />
       <br />
       <div className="flex gap-4">
-          <Link href="/resume">
-            <a className="bg-blue-500 p-4 hover:bg-blue-600 rounded-lg transition-[background]">Resume</a>
-          </Link>
-          <Link href="/articles">
-            <a className="bg-blue-500 p-4 hover:bg-blue-600 rounded-lg transition-[background]">Article&nbsp;Work&nbsp;Samples</a>
-          </Link>
+        <Link href="/resume">
+          <a className="bg-teal-500 p-4 hover:bg-teal-600 rounded-lg transition-[background]">Resume</a>
+        </Link>
+        <Link href="/articles">
+          <a className="bg-teal-500 p-4 hover:bg-teal-600 rounded-lg transition-[background]">Article&nbsp;Work&nbsp;Samples</a>
+        </Link>
       </div>
     </>
   )

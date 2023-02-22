@@ -70,15 +70,13 @@ export default function Index() {
           <p>
             Brendan Mau has recently done extensive reporting on Arizona State basketball and University of Arizona athletics.
             Additionally throughout his journalism career, Brendan has covered everything from club volleyball to high
-            school tennis to Supercross through print, video and social media. <br  />
+            school tennis to Supercross through print, video and social media. <br />
             <br />
-            Some of the skills Brendan possesses are experience with Microsoft
-            Office, Adobe Premiere Pro, Photoshop and Audition, as well
-            as the ability to use social media effectively and knowledge
-            of how to use Sony NRX and Canon video cameras. Brendan also has basic skills in
-            using CSS and HTML.
-          </p>
-          <Link href="/resume" className="bg-blue-500 text-white p-4 rounded-lg w-min drop-shadow">Resume</Link>
+            Some of the skills Brendan possesses are experience with AP style, Microsoft Office, Adobe Premiere Pro, Photoshop
+            and Audition, as well as the ability to use social media effectively and operate Sony NRX and Canon video cameras. 
+            Brendan also has basic knowledge in using CSS and HTML.
+                      </p>
+          <Link href="/resume" className="bg-teal-500 text-white p-4 rounded-lg w-min drop-shadow">Resume</Link>
         </div>
       </div>
 
