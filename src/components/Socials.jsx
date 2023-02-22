@@ -6,7 +6,7 @@ import Mail from "./icons/Mail";
 import LinkedIn from "./icons/LinkedIn";
 
 const SocialLink = ({ href, children }) => (
-	<a href={href} target="_blank" class="flex justify-center w-[40px] h-[40px] p-2 rounded-full fill-white bg-teal-500 hover:bg-teal-600 transition-[background] drop-shadow-lg">
+	<a href={href} target="_blank" class="flex justify-center w-[40px] h-[40px] p-2 rounded-full fill-white bg-teal-500 hover:bg-teal-600 transition-[background] drop-shadow-md">
 		{children}
 	</a>
 )
