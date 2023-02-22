@@ -4,7 +4,7 @@
 
 body,
 html {
-    /* teal 900 to Slate 900 */
+    background: theme("colors.teal.700");
     background: linear-gradient(to bottom, theme("colors.teal.700"), theme("colors.teal.800"));
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
